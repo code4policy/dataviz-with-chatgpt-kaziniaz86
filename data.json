@@ -1,0 +1,12 @@
+[
+    {"reason": "Enforcement & Abandoned Vehicles", "count": 61541},
+    {"reason": "Sanitation", "count": 59389},
+    {"reason": "Street Cleaning", "count": 45659},
+    {"reason": "Code Enforcement", "count": 31812},
+    {"reason": "Highway Maintenance", "count": 25096},
+    {"reason": "Signs & Signals", "count": 11209},
+    {"reason": "Trees", "count": 10390},
+    {"reason": "Recycling", "count": 9955},
+    {"reason": "Street Lights", "count": 8499},
+    {"reason": "Park Maintenance & Safety", "count": 7932}
+]
