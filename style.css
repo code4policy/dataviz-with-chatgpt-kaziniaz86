@@ -1,0 +1,14 @@
+#chart {
+    font-family: Arial, sans-serif;
+}
+
+.bar {
+    fill: seagreen;
+    transition: fill 0.3s ease;
+}
+
+.bar:hover {
+    fill: springgreen;
+}
+
+
